@@ -41,4 +41,12 @@ The dataset contains population data for different countries across multiple yea
 - Removed aggregate entries such as regions and income groups to focus only on individual countries.
 
 ---
+## 📌 **Conclusion**
+This task provided hands-on experience in visualizing real-world data using Python.  
+It demonstrated the importance of data cleaning and selecting appropriate charts to understand data distribution.  
+Overall, the task strengthened foundational skills in exploratory data analysis and data visualization.
 
+---
+## 🔖 **Internship Information**
+- **Task:** Task-01 – Data Visualization  
+- **Organization:** Prodigy InfoTech
