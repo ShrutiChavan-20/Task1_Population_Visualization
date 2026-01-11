@@ -1,4 +1,4 @@
-📊 #Task-01: Population Data Visualization
+📊 Task-01: Population Data Visualization
 
 📌 Objective
 
