@@ -42,8 +42,3 @@ The dataset contains population data for different countries across multiple yea
 
 ---
 
-## 📁 **Project Structure**
-```text
-Task-01/
-│
-├── Task1_Population_Visualization.ip
