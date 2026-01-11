@@ -1,4 +1,5 @@
-📊 Task-01: Population Data Visualization
+📊 #Task-01: Population Data Visualization
+
 📌 Objective
 
 The objective of this task is to visualize the distribution of a continuous variable using appropriate charts such as a histogram and bar chart.
